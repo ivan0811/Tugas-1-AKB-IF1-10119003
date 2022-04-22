@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">10119003 ActivityIntent</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="fullname">Full name</string>
+    <string name="namalengkap">Nama Lengkap</string>
+    <string name="nomortelepon">Nomor Telepon</string>
+</resources>
